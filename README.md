@@ -26,7 +26,8 @@ Integrantes:
 
  # Actualiza el Genero- Ficcion a No Ficcion
  
-![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/dae08976-fd6b-42a1-9bff-d0b753e92645)
+ ![Sin título](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/aeec6253-d272-46fa-8b10-1e44a8b8ade8)
+ 
 
 
 
