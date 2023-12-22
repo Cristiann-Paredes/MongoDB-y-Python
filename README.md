@@ -28,6 +28,13 @@ Integrantes:
  
  ![Sin título](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/aeec6253-d272-46fa-8b10-1e44a8b8ade8)
  
+ # Mostrar los Libros con calificacion superior a 4.0
+
+![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/1fe75620-791e-40f8-be8f-81450b5aba16)
+
+# Actualizar el Precio de un Libro
+
+![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/f467e8d6-5949-42f0-9edc-ff09a58a8545)
 
 
 
