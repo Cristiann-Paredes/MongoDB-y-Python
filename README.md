@@ -19,7 +19,6 @@ Integrantes:
  
   ![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/2b4af71c-7e27-46bd-9901-856767b0e464)
 
-
  # Mostrar todos los Libros
 
  ![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/807f4a9c-52bc-4820-81e4-ed7e0b044f95)
@@ -35,6 +34,23 @@ Integrantes:
 # Actualizar el Precio de un Libro
 
 ![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/f467e8d6-5949-42f0-9edc-ff09a58a8545)
+
+# Mostrar los libros publicados despues de un año
+
+![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/f02eccd6-011f-44c0-bd1c-cadf4a8247a6)
+
+# Eliminar libro por el nombre
+
+![Sin título](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/250b803e-5a7c-427f-bd50-2912354d7b12)
+
+# Mostrar libro por Autor
+
+![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/3b7ef338-4ffb-4a6c-b1a6-197d0bf5f438)
+
+# Conteo del numero de Libros
+
+![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/1f3e5f15-15ba-463b-ae0e-199fe74e50b7)
+
 
 
 
