@@ -6,7 +6,12 @@ Integrantes:
   -Barrera Melani                                                                                                                                                 
   -Obando Dilan                                                                                                                                                   
   -Paredes Cristian
-  
+
+   # Video 
+
+   Link:https://www.youtube.com/watch?v=OhejCItnYvc
+
+   
   # Base MongoDB
   
 ![Imagen de WhatsApp 2023-12-22 a las 13 01 01_eee05527](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/6b4f8ad4-f093-4e50-97ba-f2a7d5665ad7)
@@ -50,6 +55,11 @@ Integrantes:
 # Conteo del numero de Libros
 
 ![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/1f3e5f15-15ba-463b-ae0e-199fe74e50b7)
+
+# Mostrar libros con cantidad minima de reviews
+
+![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/74f09f75-f7d1-484c-9d42-daa1bb35f177)
+
 
 
 
