@@ -3,9 +3,13 @@
 Integrantes: 
 
   -Aguas Jhordy
+  
   -Barrera Melani
+  
   -Obando Dilan
+  
   -Paredes Cristian
+  
 
   # MongoDB
   
