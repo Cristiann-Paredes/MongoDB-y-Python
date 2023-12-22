@@ -24,6 +24,10 @@ Integrantes:
 
  ![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/807f4a9c-52bc-4820-81e4-ed7e0b044f95)
 
- # Mostrar todos los Libros
+ # Actualiza el Genero- Ficcion a No Ficcion
+ 
+![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/dae08976-fd6b-42a1-9bff-d0b753e92645)
+
+
 
 
