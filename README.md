@@ -7,7 +7,6 @@ Integrantes:
   -Obando Dilan
   -Paredes Cristian
   
-
   # MongoDB
   
 ![Imagen de WhatsApp 2023-12-22 a las 13 01 01_eee05527](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/6b4f8ad4-f093-4e50-97ba-f2a7d5665ad7)
