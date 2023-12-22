@@ -15,8 +15,7 @@ Integrantes:
  # Python
 
  
-  
- # Agregar un libro
+ # Crear un libro Nuevo
  
   ![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/2b4af71c-7e27-46bd-9901-856767b0e464)
 
