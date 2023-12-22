@@ -13,5 +13,6 @@ Integrantes:
 ![Imagen de WhatsApp 2023-12-22 a las 13 00 07_dea4f1f2](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/eab3a75c-fdcf-40a2-a3ae-c38f95bcb381)
 
   #Python
+#Agregar un libro
+  ![image](https://github.com/Cristiann-Paredes/MongoDB-y-Python/assets/117744113/2b4af71c-7e27-46bd-9901-856767b0e464)
 
-  
