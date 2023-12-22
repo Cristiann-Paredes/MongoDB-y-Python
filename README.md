@@ -3,6 +3,7 @@
 Integrantes: 
 
   -Aguas Jhordy
+  -B
   -Barrera Melani
   -Obando Dilan
   -Paredes Cristian
